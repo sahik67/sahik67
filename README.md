@@ -12,9 +12,9 @@
 
 ## About
 
-I build and break firmware. My work sits at the intersection of embedded systems and offensive/defensive security — microcontroller platforms like the ESP8266/ESP32, wireless protocol behavior, and the attack surface that shows up once a device leaves the demo bench and goes into the real world.
+I build and break firmware. My work sits at the intersection of embedded systems and offensive/defensive security  microcontroller platforms like the ESP8266/ESP32, wireless protocol behavior, and the attack surface that shows up once a device leaves the demo bench and goes into the real world.
 
-I treat proof-of-concept code the same way I'd treat production code: documented, reproducible, and built so someone else — including future me — can pick it up and understand the reasoning, not just run the script.
+I treat proof-of-concept code the same way I'd treat production code: documented, reproducible, and built so someone else  including future me  can pick it up and understand the reasoning, not just run the script.
 
 **Focus areas:** embedded exploitation · wireless protocol analysis · secure firmware design · low-level systems programming
 
@@ -82,7 +82,7 @@ I treat proof-of-concept code the same way I'd treat production code: documented
 
 ## Highlights
 
-- 🔍 Research-driven approach to embedded security — every PoC is documented well enough for peer review
+- 🔍 Research-driven approach to embedded security  every PoC is documented well enough for peer review
 - 🛠️ Hands-on with firmware development and hardware/software co-design on constrained devices
 - 📚 Actively expanding into wireless protocol exploitation and secure-by-design firmware practices
 
