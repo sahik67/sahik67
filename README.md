@@ -1,23 +1,23 @@
 <div align="center">
 
-# 👨‍💻 `root@sahik67:~#`
+# 🛡️ sahik67
 **Full-Stack Security Engineer | Android Internalist | Embedded Researcher**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahik67&label=ACCESS_LOGS&color=00ff00&style=flat-square" alt="Logs" />
-  <img src="https://img.shields.io/github/followers/sahik67?label=NETWORK_NODES&style=flat-square&color=00ff00" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sahik67&label=Profile%20Views&color=2196f3&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/sahik67?label=Connections&style=for-the-badge&color=2196f3" alt="Followers" />
 </p>
 
 ---
 
-### 📂 `whoami`
+### 📂 About Me
 > I engineer high-persistence systems at the intersection of **offensive security** and **distributed infrastructure**. My work focuses on bypassing modern OS restrictions, architecting hardened C2 (Command & Control) channels, and exploring the lower bounds of firmware exploitation.
 
-**`Current Focus:`** Android 15 Runtime Persistence · E2E Encrypted Exfiltration · Hardware-Root-of-Trust Analysis
+**Focus:** Android Runtime Persistence · E2E Encrypted Exfiltration · Hardware-Root-of-Trust Analysis
 
 ---
 
-## 🛠️ Tech Stack `[Hardened]`
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
 
 <br>
 
-## 🚀 Active Payloads (Featured Projects)
+## 🚀 Featured Projects
 
 ### 🛡️ [VaultIQ System](https://github.com/sahik67/VaultIQ-System)
 An enterprise-grade, high-persistence Android monitoring & C2 ecosystem.
@@ -49,24 +49,25 @@ Advanced research into embedded network exploitation and remote telemetry on con
 
 <br>
 
-## 📊 Analytics `[Live_Feed]`
+## 📊 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=00ff00&icon_color=00ff00&count_private=true" alt="sahik67's stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=00ff00&icon_color=00ff00&hide=html,css" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sahik67's stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150px" />
 </p>
 
 <br>
 
-## 📫 Established Connections
+## 📫 Connect with Me
 
 <p align="center">
-<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GIT-TERMINAL-00ff00?style=for-the-badge&logo=github&logoColor=black" /></a>
-<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-ff00ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
   <br />
-  <code>[ TERMINAL CLOSED ]</code><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=60&section=footer" />
+  <i>"Total Visibility. Absolute Stealth."</i>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196f3&height=60&section=footer" />
 </div>
