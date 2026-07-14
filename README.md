@@ -1,66 +1,65 @@
 <div align="center">
 
-# 🛡️ sahik67
-**Security Researcher | Android & Full-Stack Systems Engineer | Embedded Specialist**
+# 👨‍💻 `root@sahik67:~#`
+**Full-Stack Security Engineer | Android Internalist | Embedded Researcher**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahik67&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
-  <img src="https://img.shields.io/github/followers/sahik67?label=Followers&style=for-the-badge&color=28a745" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sahik67&label=ACCESS_LOGS&color=00ff00&style=flat-square" alt="Logs" />
+  <img src="https://img.shields.io/github/followers/sahik67?label=NETWORK_NODES&style=flat-square&color=00ff00" alt="Followers" />
 </p>
 
 ---
 
-### 🚀 About Me
-I build high-performance, resilient systems at the intersection of **Android Security**, **Cloud Infrastructure**, and **Embedded Systems**. I specialize in creating undetectable background services, Command & Control (C2) architectures, and secure firmware. My philosophy: *Treat every Proof-of-Concept like a production-ready engine.*
+### 📂 `whoami`
+> I engineer high-persistence systems at the intersection of **offensive security** and **distributed infrastructure**. My work focuses on bypassing modern OS restrictions, architecting hardened C2 (Command & Control) channels, and exploring the lower bounds of firmware exploitation.
 
-**Focus areas:** Android Internal Exploitation · Cloud-Native Backend (Supabase) · Wireless Protocol Analysis · Reverse Engineering
+**`Current Focus:`** Android 15 Runtime Persistence · E2E Encrypted Exfiltration · Hardware-Root-of-Trust Analysis
 
 </div>
 
 <br>
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack `[Hardened]`
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**💻 Languages**
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+**`> Core_Languages`**
+```js
+- Kotlin/Java (Android Internals)
+- Python (Automation & Bot C2)
+- C/C++ (Embedded & Firmware)
+- SQL (PostgreSQL & RLS)
+- Bash (Systems Orchestration)
+```
 
-**📱 Platforms & Backend**
-<p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+**`> Infrastructure`**
+```js
+- Supabase (Real-time Hub)
+- Cloudflare Edge (Workers/Pages)
+- Docker & Linux Hardening
+- Hetzner/AWS (VPS Orchestration)
+```
 
 </td>
 <td valign="top" width="50%">
 
-**📡 Security & Analysis**
-<p>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-FF4154?style=flat-square" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-</p>
+**`> Security_Operations`**
+```js
+- Reverse Engineering (Smali/Ghidra)
+- Payload Obfuscation & Morphing
+- Wireless Protocol Analysis
+- MITM & Network Scrutiny
+```
 
-**🏗️ Tooling**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+**`> Core_Tooling`**
+```js
+- Android Studio (Canary)
+- Wireshark & Nmap
+- Git & CI/CD Automation
+- Metasploit Framework
+```
 
 </td>
 </tr>
@@ -68,35 +67,36 @@ I build high-performance, resilient systems at the intersection of **Android Sec
 
 <br>
 
-## 🌟 Featured Projects
+## 🚀 Active Payloads (Featured Projects)
 
 ### 🛡️ [VaultIQ System](https://github.com/sahik67/VaultIQ-System)
-A professional, enterprise-grade Android surveillance solution.
-- **Tech:** Kotlin (Android), Supabase (Real-time DB), Python (Telegram Bot).
-- **Highlights:** 1.1M domain filter, Anti-uninstall guard, Stealth Ghost Mode, E2E Encryption.
+An enterprise-grade, high-persistence Android monitoring & C2 ecosystem.
+- **Stealth:** Dynamic launcher morphing, Task Manager exclusion, and self-healing watchdogs.
+- **Exfiltration:** 1.1M domain real-time filtering and AES-256 E2E encrypted log syncing.
 
 ### 📡 [esp8266_c2_poc](https://github.com/sahik67/esp8266_c2_poc)
-Research PoC exploring embedded network behavior and remote management on ESP8266 platforms.
+Advanced research into embedded network exploitation and remote telemetry on constrained IoT hardware.
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Analytics `[Live_Feed]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="sahik67's GitHub stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=00ff00&icon_color=00ff00&count_private=true" alt="sahik67's stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=00ff00&icon_color=00ff00&hide=html,css" alt="Top Languages" height="150px" />
 </p>
 
 <br>
 
-## 📫 Connect with Me
+## 📫 Established Connections
 
 <p align="center">
-<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GIT-TERMINAL-00ff00?style=flat-square&logo=github&logoColor=black" /></a>
+<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-ff00ff?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
   <br />
+  <code>[ TERMINAL CLOSED ]</code><br />
   <i>"Total Visibility. Absolute Stealth."</i>
 </div>
