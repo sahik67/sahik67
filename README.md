@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahik67&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
   <img src="https://img.shields.io/github/followers/sahik67?label=Followers&style=for-the-badge&color=28a745" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open--Source-Contributor-blue?style=for-the-badge" alt="Open Source" />
 </p>
 
 ---
@@ -84,15 +83,8 @@ Research PoC exploring embedded network behavior and remote management on ESP826
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=tokyonight&count_private=true" alt="sahik67's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
-
-<br>
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahik67&theme=tokyonight&column=4&margin-w=15" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahik67&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="sahik67's GitHub stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahik67&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150px" />
 </p>
 
 <br>
@@ -105,6 +97,6 @@ Research PoC exploring embedded network behavior and remote management on ESP826
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahik67/sahik67/main/profile-temp/github-contribution-grid-snake.svg" alt="snake" style="display:none" />
+  <br />
   <i>"Total Visibility. Absolute Stealth."</i>
 </div>
