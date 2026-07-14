@@ -15,55 +15,25 @@
 
 **`Current Focus:`** Android 15 Runtime Persistence · E2E Encrypted Exfiltration · Hardware-Root-of-Trust Analysis
 
-</div>
-
-<br>
+---
 
 ## 🛠️ Tech Stack `[Hardened]`
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,python,cpp,js,bash,postgres,supabase,cloudflare,docker,linux,aws,androidstudio,git,githubactions&theme=dark" />
+  </a>
+</p>
 
-**`> Core_Languages`**
-```js
-- Kotlin/Java (Android Internals)
-- Python (Automation & Bot C2)
-- C/C++ (Embedded & Firmware)
-- SQL (PostgreSQL & RLS)
-- Bash (Systems Orchestration)
-```
+<br />
 
-**`> Infrastructure`**
-```js
-- Supabase (Real-time Hub)
-- Cloudflare Edge (Workers/Pages)
-- Docker & Linux Hardening
-- Hetzner/AWS (VPS Orchestration)
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Reverse%20Engineering-red?style=for-the-badge&logo=spy-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Wireshark%20%26%20Nmap-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Metasploit-orange?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
 
-</td>
-<td valign="top" width="50%">
-
-**`> Security_Operations`**
-```js
-- Reverse Engineering (Smali/Ghidra)
-- Payload Obfuscation & Morphing
-- Wireless Protocol Analysis
-- MITM & Network Scrutiny
-```
-
-**`> Core_Tooling`**
-```js
-- Android Studio (Canary)
-- Wireshark & Nmap
-- Git & CI/CD Automation
-- Metasploit Framework
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -91,12 +61,12 @@ Advanced research into embedded network exploitation and remote telemetry on con
 ## 📫 Established Connections
 
 <p align="center">
-<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GIT-TERMINAL-00ff00?style=flat-square&logo=github&logoColor=black" /></a>
-<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-ff00ff?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/sahik67"><img src="https://img.shields.io/badge/GIT-TERMINAL-00ff00?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://instagram.com/ixe.67_"><img src="https://img.shields.io/badge/INSTAGRAM-ENCRYPTED-ff00ff?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
   <br />
   <code>[ TERMINAL CLOSED ]</code><br />
-  <i>"Total Visibility. Absolute Stealth."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=60&section=footer" />
 </div>
